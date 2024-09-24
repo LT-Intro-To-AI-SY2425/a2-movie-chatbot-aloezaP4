@@ -39,7 +39,7 @@ def match(pattern: List[str], source: List[str]) -> List[str]:
 
         # 4) if the current thing in the pattern is an _
         elif pattern[pind]=="_":
-            result.append(source[pind])
+            result.append(source[sind])
             return result
 
         # 5) if the current thing in the pattern is the same as the current thing in the
