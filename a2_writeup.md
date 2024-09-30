@@ -13,8 +13,9 @@ This assignment is about learning and applying the while loop and iterating thro
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
 
+For me, getting the hang of syntax was tough since python is new to me and I have been used to Java and I also take a class this year which uses Java so it is weird switching it over.
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
-
+The match function can be used for extracting information from a movie database by searching through the database based on what the user decides to ask for. The things they can ask for include: years, actors, genre, producer, etc.
